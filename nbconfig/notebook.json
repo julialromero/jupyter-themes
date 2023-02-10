@@ -1,0 +1,16 @@
+{
+  "keys": {
+    "command": {
+      "unbind": [
+        "down"
+      ],
+      "bind": {
+        "cmd-s": "jupyter-notebook:move-cell-down",
+        "cmd-w": "jupyter-notebook:move-cell-up",
+        "cmd-q": "jupyter-notebook:move-cell-up",
+        "cmd-e": "jupyter-notebook:move-cell-up",
+        "w": "jupyter-notebook:move-cell-up"
+      }
+    }
+  }
+}
